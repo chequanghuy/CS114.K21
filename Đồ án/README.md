@@ -10,6 +10,7 @@
   - keras
   - numpy
   - opencv2
+  - matplotlib
 
 ### Cấu trúc Folder
                         --------------------|Code|
