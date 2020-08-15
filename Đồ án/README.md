@@ -9,6 +9,7 @@
   - tensorflow==1.15
   - keras
   - numpy
+  - opencv2
 
 ### Cấu trúc Folder
                         --------------------|Code|
